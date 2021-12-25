@@ -1,4 +1,3 @@
-# Anti-SessionHijacking
 ## Block Session Hijacking in php.
 
 # How Does it work?
